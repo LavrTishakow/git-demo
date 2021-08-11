@@ -2,3 +2,5 @@ first string
 second string
 fird string 
 new feature 
+
+conflict1
