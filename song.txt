@@ -4,3 +4,6 @@ fird string
 new feature 
 
 conflict1
+
+conflict 2222
+
